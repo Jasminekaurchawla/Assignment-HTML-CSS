@@ -1,0 +1,25 @@
+.one {
+    width: 100%;        
+    height: 300px;
+    background-color: gray;
+    display:flex;
+    align-items: center;
+}
+.one_1 {
+    width: 15%;
+    height: 100px;
+    background-color: red;
+    flex-direction: row-reverse;
+}
+.second {
+    width: 50%;
+    height: 300px;
+    background-color: black;
+    display: flex;
+}
+.second_1 {
+    width: 20%;
+    height: 100px;
+    background-color: gray;
+    margin: 5%;
+}
